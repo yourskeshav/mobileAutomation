@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="162329" started-at="2020-04-11T23:17:59 IST" finished-at="2020-04-11T23:20:42 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="162329" started-at="2020-04-11T23:17:59 IST" finished-at="2020-04-11T23:20:42 IST">
+      <class name="appiumtest.DialANumber">
+        <test-method status="PASS" signature="dialPad()[pri:0, instance:appiumtest.DialANumber@6d7b4f4c]" name="dialPad" duration-ms="32471" started-at="2020-04-11T23:18:50 IST" finished-at="2020-04-11T23:19:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dialPad -->
+      </class> <!-- appiumtest.DialANumber -->
+      <class name="appiumtest.gesturesOne">
+        <test-method status="PASS" signature="longPress()[pri:0, instance:appiumtest.gesturesOne@2286778]" name="longPress" duration-ms="25978" started-at="2020-04-11T23:17:59 IST" finished-at="2020-04-11T23:18:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- longPress -->
+      </class> <!-- appiumtest.gesturesOne -->
+      <class name="appiumtest.browserTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:appiumtest.browserTest@4e9ba398]" name="openBrowser" duration-ms="24519" started-at="2020-04-11T23:18:25 IST" finished-at="2020-04-11T23:18:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- appiumtest.browserTest -->
+      <class name="appiumtest.swipeDemo">
+        <test-method status="PASS" signature="swipe()[pri:0, instance:appiumtest.swipeDemo@527740a2]" name="swipe" duration-ms="27276" started-at="2020-04-11T23:19:22 IST" finished-at="2020-04-11T23:19:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swipe -->
+      </class> <!-- appiumtest.swipeDemo -->
+      <class name="appiumtest.apiDemoGesture">
+        <test-method status="PASS" signature="gesture()[pri:0, instance:appiumtest.apiDemoGesture@13a5fe33]" name="gesture" duration-ms="27890" started-at="2020-04-11T23:19:50 IST" finished-at="2020-04-11T23:20:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gesture -->
+      </class> <!-- appiumtest.apiDemoGesture -->
+      <class name="appiumtest.scrollingDemo">
+        <test-method status="PASS" signature="scrolling()[pri:0, instance:appiumtest.scrollingDemo@3108bc]" name="scrolling" duration-ms="24102" started-at="2020-04-11T23:20:18 IST" finished-at="2020-04-11T23:20:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrolling -->
+      </class> <!-- appiumtest.scrollingDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

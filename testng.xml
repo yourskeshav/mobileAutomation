@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="appiumtest.gesturesOne"/>
+      <class name="appiumtest.browserTest"/>
+      <class name="appiumtest.DialANumber"/>
+      <class name="appiumtest.swipeDemo"/>
+      <class name="appiumtest.apiDemoGesture"/>
+      <class name="appiumtest.scrollingDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
